@@ -1,6 +1,6 @@
 [[main]]
   name = "Sobre Mim"
-  pageRef = "about/pt-pt"
+  pageRef = "about"
   weight = 20
 
 [[main]]
@@ -10,5 +10,5 @@
 
 [[main]]
   name = "Projetos"
-  pageRef = "projects/pt-pt"
+  pageRef = "projects"
   weight = 10
