@@ -1,0 +1,14 @@
+[[main]]
+  name = "Sobre Mim"
+  pageRef = "about/pt-pt"
+  weight = 20
+
+[[main]]
+  name = "CV"
+  url = "https://cv.simaosilva.com"
+  weight = 30
+
+[[main]]
+  name = "Projetos"
+  pageRef = "projects/pt-pt"
+  weight = 10
