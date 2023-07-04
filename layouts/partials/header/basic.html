@@ -70,9 +70,9 @@
                 </button>
               {{ else }}
                 <a
-                  href="{{ .URL }}"
-                  title="{{ .Title }}"
-                  {{ with .Params.target }}target="{{ . }}"{{ end }}
+                  href="{{ .URL  }} "
+                  title="{{ .Title }}" 
+                  {{ if eq .Name "CV" }}target="_blank" {{end}}
                   >{{ with .Params.icon }}
                     <span
                       class="group-dark:hover:text-primary-400 transition-colors group-hover:text-primary-600"
