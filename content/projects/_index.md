@@ -1,10 +1,14 @@
 ---
-description: My Projects
-layout: "simple"
-title: Projects
+title: "Projects"
+description: "Some projects I've worked on"
+
+cascade:
+  showEdit: false
+  showSummary: true
+
+groupByYear: false
 ---
 
-*  <font size="4px"> [Distributed Crypto Ledger](https://github.com/Simons36/DistLedger) </font>: &nbsp; A crypto wallet 
-service that was offered by multiple distributed servers that used the [Gossip Architecture](https://en.wikipedia.org/wiki/Gossip_protocol) to comunicate and maintain coherence between servers (developed in Java).
-
-   
+{{< lead >}}
+Some projects I've worked on
+{{< /lead >}}

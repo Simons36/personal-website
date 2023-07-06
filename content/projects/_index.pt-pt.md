@@ -1,7 +1,16 @@
 ---
-description: My Projects
-layout: "simple"
-title: Projects
+title: Projetos
+description: Alguns dos projetos em que trabalhei
+
+cascade:
+  showEdit: false
+  showSummary: true
+
+groupByYear: false
 ---
 
-fewweff
+{{< lead >}}
+Alguns dos projetos em que trabalhei
+{{< /lead >}}
+
+
