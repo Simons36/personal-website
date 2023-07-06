@@ -1,4 +1,6 @@
 <head>
+  {{ template "_internal/google_analytics.html" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
   <meta charset="utf-8" />
   {{ with site.Params.htmlCode | default .Site.LanguageCode }}
   <meta http-equiv="content-language" content="{{ . }}" />
@@ -19,7 +21,6 @@
     {{ with union .Site.Params.keywords .Params.keywords -}}
     <meta name="keywords" content="{{ delimit . `, `}}" />
     {{- end }}
-    {{ partial "analytics.html" . }}
   {{ with .Site.Params.robots }}
     <meta name="robots" content="{{ . }}" />
   {{ end }}
