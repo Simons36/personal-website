@@ -11,7 +11,7 @@ summaryLength = 0
 
 languageCode = "en"
 
+googleAnalytics = "G-SG91FH9B4T"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-googleAnalytics = "G-SG91FH9B4T"
