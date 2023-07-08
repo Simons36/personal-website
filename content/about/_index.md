@@ -4,7 +4,7 @@ layout: "simple"
 title: About Me
 ---
 
-My name is Simão Silva, I am 20 years old and a Computer Science and Engineering student at [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/).
+My name is Simão Silva, I am 21 years old and a Computer Science and Engineering student at [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/).
 <pr>
 
 I am currently finishing my BSc degree, where I have gained valuable knowledge in programming, computer engineering and software development techniques. My main interest areas are **Distributed Systems**, **Computer Networking** and **Cybersecurity**.

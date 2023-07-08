@@ -5,7 +5,7 @@ layout: "simple"
 title: Sobre Mim
 ---
 
-O meu nome é Simão Silva, tenho 20 anos e sou estudante de Engenharia Informática no [Instituto Superio Técnico (IST)](https://tecnico.ulisboa.pt/pt/).
+O meu nome é Simão Silva, tenho 21 anos e sou estudante de Engenharia Informática no [Instituto Superio Técnico (IST)](https://tecnico.ulisboa.pt/pt/).
 
 <pr>
 
