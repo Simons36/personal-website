@@ -1,3 +1,3 @@
 # personal-website
 
-Source code of https://simaosilva.com
+Source code of www.simaosilva.com
