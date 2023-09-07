@@ -7,12 +7,7 @@ title: About Me
 My name is Simão Silva, I am 21 years old and a Computer Science and Engineering student at [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/).
 <pr>
 
-I am currently finishing my BSc degree, where I have gained valuable knowledge in programming, computer engineering and software development techniques. My main interest areas are **Distributed Systems**, **Computer Networking** and **Cybersecurity**.
-
-<pr>
-
-Due to these interests, I recently started a summer internship at [INESC-ID](https://www.inesc-id.pt/), a research institute
-associated with IST. INESC-ID is a research focused organization in the fields of Computer Science and Electrical and Computer Engineering. In this internship, I will be following the work of research teams in projects related to **Distributed Systems**, **Software-Defined Networks** (SDNs), **Network Security** and **AI/ML applied to networks and systems**.
+I am currently pursuing a Master's degree in Computer Science and Engineering with specialization in **Distributed Systems** and **Cybersecurity**, whilst finishing my Bsc in the same field. During my studies I have gained valuable knowledge in programming, computer engineering and software development techniques. My main interest areas are **Distributed Systems**, **Computer Networking** and **Cybersecurity**.
 
 <pr>
 

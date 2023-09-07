@@ -9,11 +9,7 @@ O meu nome é Simão Silva, tenho 21 anos e sou estudante de Engenharia Informá
 
 <pr>
 
-De momento estou a terminar a minha licenciatura, onde ganhei conhecimentos valiosos em programação, engenharia de computadores e técnicas de desenvolvimento de _software_. As minhas principais áreas de interesse são **Sistemas Distribuídos**, **Redes de computadores** e **Ciber-Segurança**.
-
-<pr>
-
-Devido a estes interesses, recentemente comecei um estágio de verão no [INESC-ID](https://www.inesc-id.pt/), um instituto de investigação associado ao IST. O INESC-ID é uma organização focada na investigação nos campos de Engenharia Informática, Eletrotécnica e de Computadores. Neste estágio, vou seguir de perto o trabalho de equipas de investigação nas áreas de **Sistemas Distribuídos**, **Redes definidas por Software** (SDNs), **Segurança de redes** e **IA/Aprendizagem aplicada a redes e sistemas**.
+Estou neste momento a começar o Mestrado em Engenharia Informática e de Computadores com especialização em **Sistemas distribuídos** e **Ciber-segurança**, enquanto acabo a minha licenciatura (do mesmo curso). Durante os meus estudos ganhei conhecimentos valiosos em programação, engenharia de computadores e técnicas de desenvolvimento de _software_. As minhas principais áreas de interesse são **Sistemas Distribuídos**, **Redes de computadores** e **Ciber-Segurança**.
 
 <pr>
 
