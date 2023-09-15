@@ -13,4 +13,4 @@ Estou neste momento a começar o Mestrado em Engenharia Informática e de Comput
 
 <pr>
 
-No meu tempo livre, gosto de praticar desporto, jogar video-jogos, ler livros e sair com amigos. Sou uma pessoa curiosa e tenho grande interesse em aprender sobre Ciência, Engenharia ou Desenvolvimento Pessoal. Considero-me também bastante trabalhador e ambicioso, e estou entusiasmado para entrar no mundo do trabalho.
+No meu tempo livre, gosto de praticar desporto, jogar video-jogos, ler livros e sair com amigos. Sou uma pessoa curiosa e tenho grande interesse em aprender sobre Ciência, Engenharia ou Desenvolvimento Pessoal. Considero-me também bastante trabalhador e ambicioso.
