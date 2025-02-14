@@ -6,12 +6,15 @@ baseURL = "https://simaosilva.com/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 
 languageCode = "en"
 
 googleAnalytics = "G-SG91FH9B4T"
+
+# Update pagination settings to avoid deprecation error
+[pagination]
+  pagerSize = 10
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
